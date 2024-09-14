@@ -22,14 +22,16 @@ El ejercicio supone que el anfiteatro cuenta con 10 filas de 10 asientos cada un
 - [x]  configurar para que el usuario ingrese el numero de filas y mostrar los tickets en ella
 
 ***Ejercicio 1***
-  ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/ejercicio1.png)
+  ![Ejercicio 1](https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/ejercicio1.png)
 
-  ***Ejercicio o2***
- ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/consigna2.png)
+  ***Ejercicio 2***
+ ![Ejercicio 2](https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/consigna2.png)
 
  *** Visual ejercicio 1***
- ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje1.png)
+![Visual ejercicio 1](https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje1.png)
+
  
   *** Visual ejercicio 2***
+![Visual ejercicio 2](https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje_2.png)
 
- ![img alt] (  https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje_2.png)
+
