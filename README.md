@@ -20,4 +20,16 @@ El ejercicio supone que el anfiteatro cuenta con 10 filas de 10 asientos cada un
 - [x]  Utilizar BBDD logica (estructura de datos) que permita almacenar un numero indeterminado de ticket y cargar los tickets a dicha estructura
 - [x]  crear un método que recorra la estructura y sume y muestre los precios de los ticket (sin IGU)
 - [x]  configurar para que el usuario ingrese el numero de filas y mostrar los tickets en ella
-  
+
+***Ejercicio 1***
+  ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/ejercicio1.png)
+
+  ***Ejercicio o2***
+ ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/consigna2.png)
+
+ *** Visual ejercicio 1***
+ ![img alt] (https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje1.png)
+ 
+  *** Visual ejercicio 2***
+
+ ![img alt] (  https://github.com/wilfredopinom/ReservaAnfiteatro/blob/0acf29bb50138b68b7b8f256a2dd1655a27874dd/img/visual_Eje_2.png)
